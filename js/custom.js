@@ -19,9 +19,9 @@
 		/*	Modal Window
 		/*----------------------------------------------------*/
 			
-		setTimeout(function () {
-		    $(".modal:not(.auto-off)").modal("show");
-		},3600);
+		// setTimeout(function () {
+		//     $(".modal:not(.auto-off)").modal("show");
+		// },3600);
 				
 	});
 
@@ -107,7 +107,7 @@
 		/*----------------------------------------------------*/
 		/*	Single Image Lightbox
 		/*----------------------------------------------------*/
-				
+
 		$('.image-link').magnificPopup({
 		  type: 'image'
 		});	
