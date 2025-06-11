@@ -8,7 +8,8 @@
 		/*----------------------------------------------------*/
 		/*	Preloader
 		/*----------------------------------------------------*/
-		
+		chooseStyle('red-theme', 60)
+
 		var preloader = $('#loading'),
 			loader = preloader.find('#loading-center');
 			loader.fadeOut();
