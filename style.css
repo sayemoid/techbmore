@@ -935,7 +935,7 @@
     max-height: 36px !important;
   }
   .\!max-h-\[38px\] {
-    max-height: 38px !important;
+    max-height: 42px !important;
   }
   .min-h-\[220px\] {
     min-height: 220px;
@@ -28091,7 +28091,7 @@ body.theme--dark {
     margin-top: 29px !important;
   }
   .smllogo img {
-    max-height: 34px !important;
+    max-height: 40px !important;
     width: auto !important;
     max-width: inherit !important;
   }
